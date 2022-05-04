@@ -22,5 +22,11 @@ public class FacebookLogin {
 		System.out.println("facebook mobile login2 has been added");
 	}
 	
+	@Test
+	public void MobileLogin3() {
+
+		System.out.println("facebook mobile login3 has been added");
+	}
+	
 
 }
